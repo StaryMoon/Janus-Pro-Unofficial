@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the original paper."
+title: "Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Minghao
+repository-code: "https://github.com/StaryMoon/Janus-Pro-Unofficial"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling"
+  authors:
+    - family-names: Chen
+      given-names: Xiaokang
+    - family-names: Wu
+      given-names: Zhiyu
+    - family-names: Liu
+      given-names: Xingchao
+    - family-names: Pan
+      given-names: Zizheng
+    - family-names: Liu
+      given-names: Wen
+    - family-names: Xie
+      given-names: Zhenda
+    - family-names: Yu
+      given-names: Xingkai
+    - family-names: Ruan
+      given-names: Chong
+  journal: "arXiv preprint arXiv:2501.17811"
+  year: 2025
+  url: "https://arxiv.org/abs/2501.17811"
